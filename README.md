@@ -8,12 +8,12 @@ the first ever attempt was under a project that was called ProjectZ and that att
 if-statements everywhere no management no OOP no nothing just one file handling all the data structure of the app, i had just started learning programming
 at that part and i was using ctk as gui, lets just that there was something that i didnt take into prespective while working on the data structure of the app
 that i didnt put in mind that different sets would require different number of reps and i tried to fix it but i ended up breaking the app and abondaning the
-whole thing You can have a look at the code down below
+whole thing You can have a look at the code above in the folder called Legacy_Builds/ProjectZ
 
 the second attempt (ProjectZ2) was after i had more understanding of the fundamentals of programming and the importance of OOP and file management it was a really good attempt
 but it was also done in CTK gui which ended up being so limited to what i wanted to do and most importantly didnt support mobile and the whole idea of a workout app
 is to work on mobile so i abandoned the project mid way through, but this code is still working and u can actually use it to track your workouts its fully functioning
-but it has a few bugs that i dont even remember. the code for this project is also down below u can try it out if u want
+but it has a few bugs that i dont even remember. the code for this project is also above in the Legacy_Builds/ProjectZ2 u can try it out if u want
 
 the current attempt and i hope its the last it is 50% vibe coded and 50% self coded some of the files that i already had made in ProjectZ2 was fully reusable
 just needed to make it adapt to kivy, developing with kivy was a buggy mess it was way different the CTK that i was used to and it had many bugs from

@@ -15,7 +15,7 @@ but it was also done in CTK gui which ended up being so limited to what i wanted
 is to work on mobile so i abandoned the project mid way through, but this code is still working and u can actually use it to track your workouts its fully functioning
 but it has a few bugs that i dont even remember. the code for this project is also above in the Legacy_Builds/ProjectZ2 u can try it out if u want
 
-the current attempt and i hope its the last it is 50% vibe coded and 50% self coded some of the files that i already had made in ProjectZ2 was fully reusable
+the current attempt (The Paragon Protocol) and i hope its the last it is 50% vibe coded and 50% self coded some of the files that i already had made in ProjectZ2 was fully reusable
 just needed to make it adapt to kivy, developing with kivy was a buggy mess it was way different the CTK that i was used to and it had many bugs from
 widgets not functioning correctly, changing colors doesnt take place until u rebuild the widgets, optimization problems, sound problems on android,
 packaging into apk and dealing with buildozer, lack of documentation, i dont think i would have been able to tackle it down without the ai or atleast it would
@@ -28,7 +28,7 @@ machine learning/ deep learning models focusing solely on python and i wanted a 
 that im going to host the app on, i just wanted something to get the job done i didnt want to waste time learning something im not interested in just something to get the job done.
 and u would be absolutely right to disagree with me.
 
-enough talking about the developing, here are the features that this workout app provides:-
+enough talking about the developing, here are the features that this workout app (The Paragon Protocol) provides:-
 
 It supports creating custom workouts so you don't have to recreate your workout every time.
 
@@ -48,5 +48,5 @@ to when its ready.
 
 Anyways if u want to give it a try or find out more details here is the link of where the app is currently available (itch.io):-
 https://tanbison.itch.io/the-paragon-protocol
-or access it from the releases
+or download directly from the releases
   

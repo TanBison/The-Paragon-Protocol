@@ -1,4 +1,4 @@
-# The-Paragon-Protocol
+# Workout App
 The development of a workout app:-
 
 i have been working on a workout app for a couple of years now (my first ever project) i have had 2 failed attempts in the past of trying to create this app

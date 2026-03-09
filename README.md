@@ -48,4 +48,5 @@ to when its ready.
 
 Anyways if u want to give it a try or find out more details here is the link of where the app is currently available (itch.io):-
 https://tanbison.itch.io/the-paragon-protocol
+or access it from the releases
   

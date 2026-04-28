@@ -15,31 +15,32 @@ but it was also done in CTK gui which ended up being so limited to what i wanted
 is to work on mobile so i abandoned the project mid way through, but this code is still working and u can actually use it to track your workouts its fully functioning
 but it has a few bugs that i dont even remember. the code for this project is also above in the Legacy_Builds/ProjectZ2 u can try it out if u want
 
-the current attempt (The Paragon Protocol) and i hope its the last it is 50% vibe coded and 50% self coded some of the files that i already had made in ProjectZ2 was fully reusable
-just needed to make it adapt to kivy, developing with kivy was a buggy mess it was way different the CTK that i was used to and it had many bugs from
+the current attempt (Formance) and i hope its the last it is 50% vibe coded and 50% self coded some of the files that i already had made in ProjectZ2 was fully reusable
+just needed to make it adapt to kivy, developing with kivy was way different than CTK that i was used to and it had many bugs from
 widgets not functioning correctly, changing colors doesnt take place until u rebuild the widgets, optimization problems, sound problems on android,
-packaging into apk and dealing with buildozer, lack of documentation, i dont think i would have been able to tackle it down without the ai or atleast it would
-have taken me triple or quadrible the time to develop it, but in the end it got the job and most of the bugs now i know their workaround.
+packaging into apk and dealing with buildozer, i dont think i would have been able to tackle it down without the ai or atleast it would
+have taken me triple or quadrible the time to develop it, but in the end it got the job done and most of the bugs now i know their workaround.
 
 one question that you might ask why put myself in that loop of developing ui for android or windows using python and its guis, why not use JS and its frameworks
-like FLutter, you are absolutely right but the approach i had in mind is that i didnt want to go spend months or even years trying to learn a new programming language
-and new frameworks just to build the ui of the app my main goal is to be Machine learning engineer that is my goal and the route that im focusing on becoming developing
-machine learning/ deep learning models focusing solely on python and i wanted a place to host those models on without having to learn new languages for the apps or webs
-that im going to host the app on, i just wanted something to get the job done i didnt want to waste time learning something im not interested in just something to get the job done.
-and u would be absolutely right to disagree with me.
+like FLutter, you are absolutely right but the approach i had in mind is that i didnt want to go spend months trying to learn a new programming language
+and new frameworks just to build the ui of the app my main goal is to focus on Machine learning side of things
 
-enough talking about the developing, here are the features that this workout app (The Paragon Protocol) provides:-
+machine learning/ deep learning models focusing solely on python and i wanted a place to host those models on without having to learn new languages for the apps or webs that im going to host the app on, i just wanted something to get the job done i didnt want to waste time learning something im not interested in just something to get the job done.
+
+the features that this workout app (The Paragon Protocol) provides:-
 
 It supports creating custom workouts so you don't have to recreate your workout every time.
 
 It supports creating custom exercises so if an exercise doesn't exist in the app, you can add it yourself.
 
-It has a workout evaluation at the end of the workout that gives you a score and a summary of what you did.
+It has a workout evaluation at the end of the workout that gives you a score and a summary of what you did and analysis of the workout.
 
 It saves the workout in a history page that allows you to create as many tabs as you like, to manage how you save your workouts so you can track them easily. 
 (Note: This currently relies on a local database—always back it up so you don't lose it).
 
-The ui of the app looks more like a game it has two themes futuristic theme and medieval theme feel free to switch between both.
+The ui of the app looks more like a game it has two themes futuristic theme and medieval theme pick from.
+
+An Analysis page that that has filters to filter by workout type or filter by certain time or show overall.
 
 Currently in work and the reason i made the whole app is AI Form Evaluation Model that evaluates the form of some specific exercises that i have some what of 
 experience in those exercises would be (Push Ups, Pull Ups, Dips, Squats) there is more that i would like to talk about how the ai model works and on what bases

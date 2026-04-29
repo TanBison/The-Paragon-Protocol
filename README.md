@@ -27,7 +27,7 @@ and new frameworks just to build the ui of the app my main goal is to focus on M
 
 machine learning/ deep learning models focusing solely on python and i wanted a place to host those models on without having to learn new languages for the apps or webs that im going to host the app on, i just wanted something to get the job done i didnt want to waste time learning something im not interested in just something to get the job done.
 
-the features that this workout app (The Paragon Protocol) provides:-
+the features that this workout app (Formance) provides:-
 
 It supports creating custom workouts so you don't have to recreate your workout every time.
 
